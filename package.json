@@ -1,0 +1,12 @@
+{
+  "name": "parse-hdr",
+  "version": "0.0.1",
+  "description": "Parses HDR (Radiance) file",
+  "main": "index.js",
+  "keywords": [
+    "hdr",
+    "webgl"
+  ],
+  "author": "Marcin Ignac <marcin.ignac@gmail.com>",
+  "license": "MIT"
+}
